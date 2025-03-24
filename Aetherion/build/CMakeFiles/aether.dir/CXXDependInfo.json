@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/shadow/Documents/C++/Compiler/Aetherion/build",
+	"dir-cur-src" : "/home/shadow/Documents/C++/Compiler/Aetherion",
+	"dir-top-bld" : "/home/shadow/Documents/C++/Compiler/Aetherion/build",
+	"dir-top-src" : "/home/shadow/Documents/C++/Compiler/Aetherion",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir",
+	"sources" : 
+	{
+		"CMakeFiles/aether.dir/src/Main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/shadow/Documents/C++/Compiler/Aetherion/src/Main.cpp"
+		}
+	}
+}

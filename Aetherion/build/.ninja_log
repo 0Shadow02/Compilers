@@ -1,0 +1,13 @@
+# ninja log v6
+0	95	1742799227641391639	CMakeFiles/aether.dir/src/Main.cpp.o.ddi	484bab615dd80340
+95	103	1742799227741391122	CMakeFiles/aether.dir/CXX.dd	f32940d97aad5247
+95	103	1742799227741391122	/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir/CXXModules.json	f32940d97aad5247
+95	103	1742799227741391122	CMakeFiles/aether.dir/src/Main.cpp.o.modmap	f32940d97aad5247
+103	435	1742799227744724438	CMakeFiles/aether.dir/src/Main.cpp.o	4df98bb2aab48a97
+436	500	1742799228074722734	aether	689d738e4a93e957
+2	94	1742801756300303836	CMakeFiles/aether.dir/src/Main.cpp.o.ddi	484bab615dd80340
+94	104	1742801756393638263	CMakeFiles/aether.dir/CXX.dd	f32940d97aad5247
+94	104	1742801756393638263	/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir/CXXModules.json	f32940d97aad5247
+94	104	1742801756393638263	CMakeFiles/aether.dir/src/Main.cpp.o.modmap	f32940d97aad5247
+104	452	1742801756403638380	CMakeFiles/aether.dir/src/Main.cpp.o	4df98bb2aab48a97
+452	524	1742801756750309112	aether	689d738e4a93e957

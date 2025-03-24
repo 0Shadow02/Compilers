@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/shadow/Documents/C++/Compiler/Aetherion/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -fmodules-ts -fmodule-mapper=CMakeFiles/aether.dir/src/Main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/aether.dir/src/Main.cpp.o -c /home/shadow/Documents/C++/Compiler/Aetherion/src/Main.cpp",
+  "file": "/home/shadow/Documents/C++/Compiler/Aetherion/src/Main.cpp",
+  "output": "CMakeFiles/aether.dir/src/Main.cpp.o"
+}
+]

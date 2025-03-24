@@ -1,0 +1,3 @@
+/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir
+/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/edit_cache.dir
+/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/rebuild_cache.dir
