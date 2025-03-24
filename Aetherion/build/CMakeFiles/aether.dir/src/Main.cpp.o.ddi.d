@@ -153,4 +153,11 @@ CMakeFiles/aether.dir/src/Main.cpp.o.ddi: \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/basic_file.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++io.h \
  /usr/include/c++/14.2.1/bits/fstream.tcc /usr/include/c++/14.2.1/sstream \
- /usr/include/c++/14.2.1/bits/sstream.tcc
+ /usr/include/c++/14.2.1/bits/sstream.tcc \
+ /usr/include/c++/14.2.1/optional \
+ /usr/include/c++/14.2.1/bits/enable_special_members.h \
+ /usr/include/c++/14.2.1/vector \
+ /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
+ /usr/include/c++/14.2.1/bits/stl_vector.h \
+ /usr/include/c++/14.2.1/bits/stl_bvector.h \
+ /usr/include/c++/14.2.1/bits/vector.tcc
