@@ -1,19 +1,7 @@
 # ninja log v6
-704	777	1742808222044515517	aether	689d738e4a93e957
-101	704	1742808221441175645	CMakeFiles/aether.dir/src/Main.cpp.o	4df98bb2aab48a97
-92	101	1742808221431175537	CMakeFiles/aether.dir/src/Main.cpp.o.modmap	f32940d97aad5247
-92	101	1742808221431175537	/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir/CXXModules.json	f32940d97aad5247
-92	101	1742808221431175537	CMakeFiles/aether.dir/CXX.dd	f32940d97aad5247
-1	91	1742808221341174561	CMakeFiles/aether.dir/src/Main.cpp.o.ddi	484bab615dd80340
-2	106	1742808416336618119	CMakeFiles/aether.dir/src/Main.cpp.o.ddi	484bab615dd80340
-106	116	1742808416439952570	CMakeFiles/aether.dir/CXX.dd	f32940d97aad5247
-106	116	1742808416439952570	/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir/CXXModules.json	f32940d97aad5247
-106	116	1742808416439952570	CMakeFiles/aether.dir/src/Main.cpp.o.modmap	f32940d97aad5247
-116	782	1742808416449952678	CMakeFiles/aether.dir/src/Main.cpp.o	4df98bb2aab48a97
-782	860	1742808417116626550	aether	689d738e4a93e957
-1	103	1742808570914954183	CMakeFiles/aether.dir/src/Main.cpp.o.ddi	484bab615dd80340
-103	114	1742808571014955262	CMakeFiles/aether.dir/CXX.dd	f32940d97aad5247
-103	114	1742808571014955262	/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir/CXXModules.json	f32940d97aad5247
-103	114	1742808571014955262	CMakeFiles/aether.dir/src/Main.cpp.o.modmap	f32940d97aad5247
-114	753	1742808571028288739	CMakeFiles/aether.dir/src/Main.cpp.o	4df98bb2aab48a97
-753	822	1742808571664962277	aether	689d738e4a93e957
+724	825	1743495115829844710	aether	689d738e4a93e957
+100	724	1743495115206506793	CMakeFiles/aether.dir/src/Main.cpp.o	4df98bb2aab48a97
+3	16	1743508406494742427	CMakeFiles/aether.dir/src/Main.cpp.o.modmap	f32940d97aad5247
+3	16	1743508406494742427	/home/shadow/Documents/C++/Compiler/Aetherion/build/CMakeFiles/aether.dir/CXXModules.json	f32940d97aad5247
+3	16	1743508406494742427	CMakeFiles/aether.dir/CXX.dd	f32940d97aad5247
+2	91	1743495115109839416	CMakeFiles/aether.dir/src/Main.cpp.o.ddi	484bab615dd80340
